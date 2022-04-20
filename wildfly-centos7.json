@@ -221,7 +221,7 @@
         },
         "from": {
           "kind": "DockerImage",
-          "name": "docker pull jboss/wildfly:16.0.0.Final"
+          "name": "jboss/wildfly:16.0.0.Final"
         },
         "referencePolicy": {
           "type": "Local"
