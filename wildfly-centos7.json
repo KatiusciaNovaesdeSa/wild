@@ -1,5 +1,6 @@
+
+ //update apiVersion: image.openshift.io/v1
 {
-  //update apiVersion: image.openshift.io/v1
   "apiVersion": "v1",
   "kind": "ImageStream",
   "metadata": {
